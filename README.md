@@ -1,0 +1,1 @@
+# terraform-for-creating-s3-aws
